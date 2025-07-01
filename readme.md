@@ -78,7 +78,7 @@ To build and validate a functional prototype of a cognitive architecture where a
   "query_vector": [0.1, 0.9, ...],
   "intent_vector": [0.8, 0.2, ...], // e.g., factual vs. creative
   "emotion_vector": [0.1, 0.1, ...],
-  "entities": ["user:joao", "topic:zipf_law"]
+  "entities": ["user:john", "topic:zipf_law"]
 }
 ```
 
